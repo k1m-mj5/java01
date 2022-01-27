@@ -16,3 +16,11 @@ public class Input02 {
         System.out.println(input5);
     }
 }
+    /*
+    Lorem ipsum dolor sit amet
+    Lorem
+    ipsum
+    dolor
+    sit
+    amet
+    */

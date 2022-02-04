@@ -1,0 +1,31 @@
+## Hunt the Wumpus ##
+
+You are in a cave to hunt the wumpus.
+This cave has 20 rooms,
+each room has 3 pathways to another room.
+
+Hazards
+
+Pit:
+- Very deep pits in 2 rooms, you can not get out.
+- The airflow is subtly different in these rooms.
+
+Bat:
+- Big bats are in 3 rooms.
+- If you meet a bat, it catches and drops you to another room.
+- But remember, the another room has another hazard.
+- The bats always rub their wings.
+
+Wumpus:
+- Wumpus is a monster and smells unusually bad.
+- It is not affected by any hazard.
+- It has feet with suckers and a huge body can not catch.
+- It usually sleeps.
+- It wakes up, if you shoot wrong or enter its room.
+- Waking up, it moves to another room 75% probability.
+- If you are with it in same room, it will eat you.
+
+You:
+- You can move to another room thru pathway or shoot.
+- If you can not hunt wumpus after 5 times shooting,
+- You failed.
